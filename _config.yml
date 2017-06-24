@@ -1,5 +1,7 @@
-title: Hacker Theme
-description: Hacker is a theme for GitHub pages
-show_downloads: true
-google_analytics:
-theme:
+# General Jekyll Config
+name: Levi Hornsby Code Jedi
+description: My experiences and adventures on my path to becoming a coding master
+url: "levi.horns.by"
+
+# Build settings
+theme: hacker
