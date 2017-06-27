@@ -1,7 +1,8 @@
 # General Jekyll Config
-name: Levi Hornsby Code Jedi
+name: Levi Hornsby: Code Jedi
 description: My experiences and adventures on my path to becoming a coding master
-url: "levi.horns.by"
-
+url: levi.horns.by
+author: Levi Hornsby
+author_email: levi@horns.by
 # Build settings
 theme: jekyll-theme-hacker
